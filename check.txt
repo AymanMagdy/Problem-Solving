@@ -6,8 +6,6 @@ Changes not staged for commit:
 Untracked files:
 	0
 	autoCommit.sh
-	txt1.txt
-	txt2.txt
 	txt3.txt
 
 no changes added to commit
