@@ -6,7 +6,5 @@ Changes not staged for commit:
 
 Untracked files:
 	0
-	txt4.txt
-	txt5.txt
 
 no changes added to commit
