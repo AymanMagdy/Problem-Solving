@@ -1,7 +1,7 @@
 On branch master
 Changes not staged for commit:
 	modified:   check.txt
-	modified:   test
+	deleted:    test
 
 Untracked files:
 	0
