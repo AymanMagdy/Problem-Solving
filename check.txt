@@ -1,15 +1,13 @@
 On branch master
 Changes not staged for commit:
+	modified:   check.txt
 	modified:   test
 
 Untracked files:
 	0
-	alice.cpp
 	autoCommit.sh
-	check.txt
-	diagonalDif.cpp
-	hashes.cpp
-	miniMaxSum.cpp
-	plsMinus.cpp
+	txt1.txt
+	txt2.txt
+	txt3.txt
 
 no changes added to commit
