@@ -1,10 +1,12 @@
 On branch master
 Changes not staged for commit:
+	modified:   autoCommit.sh
 	modified:   check.txt
 	deleted:    test
 
 Untracked files:
 	0
-	autoCommit.sh
+	txt4.txt
+	txt5.txt
 
 no changes added to commit
