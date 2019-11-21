@@ -2,9 +2,6 @@ On branch master
 Changes not staged for commit:
 	modified:   autoCommit.sh
 	modified:   check.txt
-	deleted:    test
-
-Untracked files:
-	0
+	modified:   test
 
 no changes added to commit
